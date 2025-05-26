@@ -1,4 +1,4 @@
-<!-- https://github.com/kyechan99/capsule-render -->
+l<!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=This%20is%20Junyin%20Zheng!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
@@ -17,5 +17,5 @@
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=zjzjy&theme=github-compact&hide_border=true&area=true" />
 <br/>
-<img align="center" src="https://skillicons.dev/icons?i=linux,ubuntu,windows,anaconda,pycharm,vim,py,latex,tensorflow,pytorch,sklearn,matlab,react,vue&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=linux,windows,anaconda,pycharm,cpp,py,latex,tensorflow,pytorch,sklearn,matlab,vercel,docker,c,mysql&theme=light" />
 
